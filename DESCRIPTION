@@ -1,7 +1,7 @@
 Package: aTSA
 Type: Package
 Title: Alternative Time Series Analysis
-Version: 3.1.2
+Version: 3.1.2.1
 Date: 2015-06-19
 Author: Debin Qiu
 Maintainer: Debin Qiu <debinqiu@uga.edu>
@@ -11,7 +11,7 @@ Description: Contains some tools for testing, analyzing time series data and
     does, such as identify, estimate and forecast, which are the same statements
     in PROC ARIMA in SAS.
 License: GPL-2 | GPL-3
-Packaged: 2015-07-08 19:18:15 UTC; Deman
+Packaged: 2024-02-21 07:54:50 UTC; hornik
 NeedsCompilation: no
 Repository: CRAN
-Date/Publication: 2015-07-08 22:37:24
+Date/Publication: 2024-02-21 07:59:33 UTC

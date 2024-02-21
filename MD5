@@ -1,4 +1,4 @@
-be496393753688f8484b80d21c7c2240 *DESCRIPTION
+d94ff533cd15a8adeeb9f13a0fb46d03 *DESCRIPTION
 69cff225e12fd3b063231e39d28dd730 *NAMESPACE
 ff3dce0fc4732aef73029f782a0c8607 *R/Holt.R
 ae694930c716eebea88aa42a8f125e38 *R/MA.R
@@ -17,7 +17,7 @@ d0ba428e83102c0a5622b7100e93bd5d *R/kpsstest.R
 6d23d4830c8a082d9dec8f63b2e979ef *R/pptest.R
 ece3174f85a38009d71c77a611c0772d *R/stationarytest.R
 fb4506aa9fddccc14c3df7e25295b049 *R/stepar.R
-df7eddd71d9de256e88363f31d04576e *R/trendtest.R
+5bbec978358347a8f558b04d34704656 *R/trendtest.R
 2444d01c90ed4f1e08fb079c60204844 *R/tsdiag.R
 201dd5be4e06b9a6b74ec25b02a46435 *man/Holt.Rd
 58c6f765dae71eb09e0d7729405c738e *man/MA.Rd
@@ -36,5 +36,5 @@ c9a540be8e9e20a792b0517e58bea99b *man/identify.Rd
 3d385077ee55cfb76e5f9fbd6934c3a9 *man/pp.test.Rd
 c90b79d6899ea4264530cc3acd3dd03b *man/stationary.test.Rd
 ad8543890536338b86963141797cdfcf *man/stepar.Rd
-8157335d63baf3afa6cf5eef18b96821 *man/trend.test.Rd
+271ba18554ed26313a4b632980bfe124 *man/trend.test.Rd
 1d69487bb3e4774f6bdf633c753a4f07 *man/ts.diag.Rd

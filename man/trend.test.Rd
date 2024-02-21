@@ -34,7 +34,7 @@ i.e., \eqn{D = x[i] - x[i+c], i = 1, ..., floor(n/2)}, where \eqn{c} is the inde
 midpoint. Let \eqn{S} be the number of positive or negative values in \eqn{D}. Under the
 null hypothesis that data have no trend, for large \eqn{n} = length(x), \eqn{S} is
 approximately distributed as \eqn{N(n/2,n/4)}, such that one can immediately obtain
-the p value. The exact Cox-Stuart trend test can be seen in \code{\link[snpar]{cs.test}} of
+the p value. The exact Cox-Stuart trend test can be seen in \code{cs.test} of
 \code{snpar} package.
 
 The Difference-Sign test is constructed as the similar way as Cox-Stuart test. We first
